@@ -1,5 +1,5 @@
 # Task management
-Todo website that keeps track of everything you need to do, allowing you to focus on what truly matters.  empowers you to organize your life with precision and efficiency.
+Task management keeps track of everything you need to do, allowing you to focus on what truly matters.  empowers you to organize your life with precision and efficiency.
 
 
 # Features
